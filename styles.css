@@ -1,0 +1,149 @@
+/* font styles */
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Bebas+Neue&family=Dancing+Script&family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.menu {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+}
+
+.social {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+}
+
+footer {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+}
+
+nav a {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+}
+
+nav span {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 20px;
+}
+
+h1 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 30px;
+}
+
+h3 {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 25px;
+}
+
+/* Font style */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+.menu li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+dd {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+li {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+nav {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+nav input {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+/* Font style */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+dt {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+/*universal style*/
+
+html {
+    margin: auto;
+    box-sizing: border-box;
+    width: 414px;
+}
+
+body {
+background-color: rgba(122, 191, 191, .5);
+margin: auto;
+}
+
+nav{ 
+
+}
+
+.top-bar {
+    position: absolute;
+    top: 0;
+    background-color:#F2F2F2;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+       text-align: center;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  }
+
+
+#Connect ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+  }
+  
+
+.goodeats {
+    text-align: center;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.goodeats h3 {
+    visibility: hidden;
+}
+
+
+
+/*Color Palette*/
+
+#0D0D0D
+
+#F2F2F2
+
+#7ABFBF
+
+
+
+#EB5428
